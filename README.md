@@ -1,4 +1,5 @@
 # Mon Projet Calculette
-Projet d'entraînement au Git Flow.
+Partiel Git.
 
 Statut du projet : Soustraction ajoutée.
+Statut du projet : Addition ajoutée.
